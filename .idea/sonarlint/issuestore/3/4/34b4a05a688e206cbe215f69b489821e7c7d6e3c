@@ -1,0 +1,9 @@
+
+I
+java:S1602",Remove useless curly braces around statement(Øéà¬8í½ú/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(•×µ8î½ú/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Âİ‹Ş8ğ½ú/
+f
+java:S2147"DCombine this catch with the one at line 23, which has the same body.(†«”Ïüÿÿÿÿ8ó½ú/
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ó½ú/

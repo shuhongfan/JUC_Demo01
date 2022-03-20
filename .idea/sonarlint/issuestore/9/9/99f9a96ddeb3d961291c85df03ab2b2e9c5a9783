@@ -1,0 +1,11 @@
+
+I
+java:S1602",Remove useless curly braces around statement(¥—ýð8ãÒË‰ú/
+T
+java:S1612"7Replace this lambda with method reference 'phone::sms'.(¥—ýð8ãÒË‰ú/
+I
+java:S1602",Remove useless curly braces around statement(¥—ýð8È¼Ì‰ú/
+T
+java:S1612"7Replace this lambda with method reference 'phone::sms'.(¥—ýð8È¼Ì‰ú/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(”‘ö€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Õ“àîýÿÿÿÿ

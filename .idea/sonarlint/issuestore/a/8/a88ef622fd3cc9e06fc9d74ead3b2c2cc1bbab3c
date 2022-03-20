@@ -1,0 +1,19 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Çµí‘
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+t
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+t
+java:S2142-"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+t
+java:S21427"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(€×‚¬üÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(€×‚¬üÿÿÿÿ
+{
+java:S2142l"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÿŒÀÖù/
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(€×‚¬üÿÿÿÿ
+{
+java:S2142~"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8±–ÂÖù/
+Z	java:S106{"9Replace this use of System.out or System.err by a logger.(€×‚¬üÿÿÿÿ8²–ÂÖù/

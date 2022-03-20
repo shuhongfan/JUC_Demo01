@@ -1,0 +1,12 @@
+
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÂÀÅŒûÿÿÿÿ8´İ…ú/
+F
+java:S1068")Remove this unused "data1" private field.(ÖĞ‘Ú8¡ä…ú/
+F
+java:S1068")Remove this unused "data2" private field.(¡–Ç¹8¡ä…ú/
+F
+java:S1068")Remove this unused "data3" private field.(ÔÖ©8¡ä…ú/
+F
+java:S1068	")Remove this unused "data4" private field.(•áÓš8¡ä…ú/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›ÙŸ+

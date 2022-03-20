@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œŠ¹’üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÐèöÜúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½æ÷Ÿþÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÉÏ²þÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(½æ÷Ÿþÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¶°žýÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(½æ÷Ÿþÿÿÿÿ
+l
+java:S1128"ORemove this unused import 'java.util.concurrent.atomic.AtomicStampedReference'.(šŒŸ±8ÎÂ«ˆú/

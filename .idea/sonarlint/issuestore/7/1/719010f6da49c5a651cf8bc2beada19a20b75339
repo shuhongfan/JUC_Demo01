@@ -1,0 +1,9 @@
+
+A
+java:S1860"&Synchronize on a new "Object" instead.(Áî—äùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—‰¬à
+t
+java:S2142!"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+<
+java:S1860%"&Synchronize on a new "Object" instead.(ÐÓÃŠ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(‰À»ÿ

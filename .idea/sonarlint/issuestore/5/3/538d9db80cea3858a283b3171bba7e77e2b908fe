@@ -1,0 +1,15 @@
+
+B
+java:S1602",Remove useless curly braces around statement(¥—ýð
+Q
+java:S1612";Replace this lambda with method reference 'phone::sendSms'.(¥—ýð
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+B
+java:S1602",Remove useless curly braces around statement(¥—ýð
+N
+java:S1612"8Replace this lambda with method reference 'phone::cell'.(¥—ýð
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8±÷³×ù/
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(µœÊ‚ùÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Þ¿˜Äüÿÿÿÿ

@@ -1,0 +1,23 @@
+
+I
+java:S1602",Remove useless curly braces around statement(¥—ığ8»¿ú/
+I
+java:S1602",Remove useless curly braces around statement(¥—ığ8¼¿ú/
+y
+java:S3077'"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ôé×±úÿÿÿÿ8½¿ú/
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ş©¼8Â¿ú/
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(Ô¯•™ÿÿÿÿÿ8Â¿ú/
+R
+java:S1854<"5Remove this useless assignment to local variable "o".(È¡œì8Ã¿ú/
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(¨µ³ùÿÿÿÿ8Ã¿ú/
+C
+java:S1481<"&Remove this unused "o" local variable.(È¡œì8Ä¿ú/
+U	java:S106="9Replace this use of System.out or System.err by a logger.(ßÈ‚¸8Ä¿ú/
+y
+java:S3077D"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ôé×±úÿÿÿÿ8Å¿ú/
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(ş©¼8Æ¿ú/
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(Ô¯•™ÿÿÿÿÿ8Æ¿ú/
+R
+java:S1854O"5Remove this useless assignment to local variable "o".(È¡œì8Ç¿ú/
+C
+java:S1481O"&Remove this unused "o" local variable.(È¡œì8Ç¿ú/

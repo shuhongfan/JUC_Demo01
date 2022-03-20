@@ -1,0 +1,14 @@
+
+b
+java:S11243"EReorder the modifiers to comply with the Java Language Specification.(ñá¤ü8†ù‚ú/
+J	java:S1087")Either remove or fill this block of code.(Úë©üùÿÿÿÿ8«ßö‚ú/
+{
+java:S2142>"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8«ßö‚ú/
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ8¬ßö‚ú/
+Q
+java:S1128"6Remove this unused import 'com.shf.tvolatile.VDemo02'.(¨‰¤®øÿÿÿÿ
+M
+java:S1128"+Remove this unused import 'org.junit.Test'.(ùøèøÿÿÿÿ8Ø¯ö‚ú/
+U
+java:S1128":Remove this unused import 'com.shf.tvolatile.VDemo02.add'.(Ã ‚şÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­ç€Œ

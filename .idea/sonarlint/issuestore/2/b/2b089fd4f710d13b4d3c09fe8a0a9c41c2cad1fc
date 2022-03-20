@@ -1,0 +1,7 @@
+
+y
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¸İÇêûÿÿÿÿ8İìû„ú/
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¸İÇêûÿÿÿÿ
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(„Ú(
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­ç€Œ

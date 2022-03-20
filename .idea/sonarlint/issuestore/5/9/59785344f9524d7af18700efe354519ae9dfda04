@@ -1,0 +1,11 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(÷¹Ï×8‘áò†ú/
+I
+java:S1125	"'Remove the unnecessary boolean literal.(–¬´¯ùÿÿÿÿ8èŠò†ú/
+O
+java:S2168"9Remove this dangerous instance of double-checked locking.(²ùÍÃ
+B
+java:S1602+",Remove useless curly braces around statement(¥—ýð
+W
+java:S1612+"AReplace this lambda with method reference 'LazyMan::getInstance'.(¥—ýð
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›ÙŸ+
